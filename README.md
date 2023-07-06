@@ -1,4 +1,10 @@
-# mattsoseman.github.io
+#theme: MODERNIST
+Welcome to the Microsoft Partner Glossary Powered by The Partner Masters!
+
+Microsoft has hundreds of external products and services, and internally has thousands of programs – all of which must be communicated daily. At Microsoft, acronyms are a daily part of the employee DNA and is used to describe these programs, products and services. To someone on the outside of Microsoft, it can often be confusing and intimidating trying to understand and decipher these acronyms and how they are used. 
+
+Using our combined 40+ years of experience working at Microsoft we created this site (to be updated periodically) to help Microsoft Partners better understand these acronyms. Over time, we will add additional acronyms. If you have any questions on a particular acronym or if we are missing any, please let us know by emailing blog@thepartnermasters.com
+
 
 | **Acronym** | **Description**                                |
 | ----------- | ---------------------------------------------- |
