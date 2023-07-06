@@ -1,5 +1,7 @@
-#theme: MODERNIST
+![TPMLogo](https://cdn.sanity.io/images/phx61q1g/production/bcef0681b147aa259acd9482283bc850c790f4ae-156x48.svg) 
+
 Welcome to the Microsoft Partner Glossary Powered by The Partner Masters!
+
 
 Microsoft has hundreds of external products and services, and internally has thousands of programs – all of which must be communicated daily. At Microsoft, acronyms are a daily part of the employee DNA and is used to describe these programs, products and services. To someone on the outside of Microsoft, it can often be confusing and intimidating trying to understand and decipher these acronyms and how they are used. 
 
