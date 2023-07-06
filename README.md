@@ -10,7 +10,7 @@ Using our combined 40+ years of experience working at Microsoft we created this 
 ## About The Partner Masters
 The Partner Masters provides business and technical consulting, advisory and operational support services to independent software vendors, systems integrators, managed service providers and consultancy firms that are registered Microsoft Partners to help them meet and exceed business objectives in their Microsoft practice, products, and integrations.
 
-#Glossary:
+# Glossary:
 
 
 | **Acronym** | **Description**                                |
